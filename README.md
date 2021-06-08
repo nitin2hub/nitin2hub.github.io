@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -81,7 +81,7 @@
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/IMG_20210601_143156.jpg" class="img-fluid custom" alt="" style="border-radius: 100%;">
+            <img src="assets/img/IMG_20210529_193149.jpg" class="img-fluid custom" alt="" style="border-radius: 100%;">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Data Analyst &amp; Power BI Developer.</h3>
